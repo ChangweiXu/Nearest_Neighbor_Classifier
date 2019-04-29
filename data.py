@@ -1,3 +1,4 @@
+# credit: Stanford CS231n
 
 import numpy as np
 import os
