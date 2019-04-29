@@ -1,0 +1,12 @@
+
+.idea
+venv
+
+__pycache__
+.pyc
+
+cifar10
+assignment*
+
+*.zip
+*.tar.gz
